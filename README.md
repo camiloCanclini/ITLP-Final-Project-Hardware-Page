@@ -1,0 +1,2 @@
+# ITLP-Final-Project-Hardware-Page
+This is the final project i did in my last year of  the high school. Basically i designed a web page for the a imaginary company what they sell hardware compoenent´s. The code has been integret with HTML, CSS, JS, PHP and a data base made in SQL.  Further this project is attach to a report, that is like a project guide and it has information about the function of the  backend of the page.
